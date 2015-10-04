@@ -1,0 +1,6 @@
+#tags {margin: 10px 0 10px 10px; position: relative; font-size: 0.9em; color:#185FAB;}
+#tags ul {float: right; margin-right: 0;}
+#tags ul li { float:  left; margin : 0 10px 0 10px;}
+#tags ul li a {font-size: 0.9em; color:#90BDEE;}
+#tagentry {float: left;}
+#tag {float: left;}

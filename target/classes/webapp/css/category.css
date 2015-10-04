@@ -1,0 +1,15 @@
+#about_category { margin : 10 0 15 10; text-decoration: underline;}
+#category_table {  margin : 0 0 30 20; font-size: 0.9em; float: left; width : 100%;}
+#category_table .table_row { padding-top: 5px; height: 25px; border-bottom: 1px solid lightslategray; overflow: hidden;}
+#category_table .table_col { float: left;}
+#category_table #title a {color :#141414;}
+#category_table .date {color : #0091ff; font-size: 0.8em; margin : 3 0 0 10px;}
+#category_table #comment_count { color : orange;font-size: 0.8em; padding: 3px 0 0 5px;}
+#category_table #checkbox {margin : 3 10 0 3;}
+#out_box {width:100%; height: auto;text-align: center;}
+#pagenation {display: inline-block; margin: 0 auto; height: auto;position: relative; }
+#pagenation .page {float : left; margin : 0 5 0 5 ;}
+.action_button {float: left;}
+#action_form {height: auto; display: inline-block; width : 100%;position: relative;}
+#button_box {width: 100%; height: 30px; padding: 0 0 10 20; border-bottom: 1px solid lightslategray;}
+#button_box #check_all {margin: 7 5 0 2;}

@@ -1,0 +1,6 @@
+#article_header {color: #5C5C5C; font : bold 15px 맑은 고딕,tahoma,gulim; border-bottom: 1px solid #D0D0D0; margin: 5 0 10 5;}
+#article_header h2 {width: 100%;}
+#article_content { margin: 5 0 50 10px; color: #5C5C5C; font : 13px 맑은 고딕,tahoma,gulim;}
+#article_meta {color : #0091ff;font : bold 12px 맑은 고딕,tahoma,gulim; text-align: right; width: 98%; margin-right: 5%;}
+#article_meta .timestamp {font :bold 11px 맑은 고딕,tahoma,gulim;}
+.post-img {margin: 20 0 20 10px;}

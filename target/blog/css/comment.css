@@ -1,0 +1,15 @@
+#commentbox {clear: both; padding-top : 30px; margin-left: 10px;}
+#commentbox textarea {margin-top : 5px;}
+#comments {position:relative;   margin : 100px 0 10px 0; height: auto; }
+#comments #count {border-bottom: 1px solid #E3E3E3; height: 30px; margin-left: 10px; }
+#comments .comment {height: auto; border-bottom: 1px solid #E3E3E3; margin: 0 0 0px 20px;}
+#comments .comment ul {position :relative;}
+#comments .comment li {font-size: 0.9em; float: left; margin: 10px 20px 5px 5px; text-align: center;}
+#comments .comment li.date {font-size : 0.8em; }
+#comments .comment p {clear : both; margin: 0 0 0 30px ;}
+#commentbox {position : relative;}
+#commentbox .login_icon {width:17px; height: 17px; margin : 1 0 0 10;}
+#commentbox #comment_box_label {float: left;}
+#commentbox #comment_text_box {float : left;width : 600px; height: 70px;}
+#commentbox textarea {width : 600px; height: 70px;}
+#commentbox #comment_post {float:left; margin-top: 5px; width : 70px;height: 70px; }
